@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>CINEMA KATHARNAK untadoro..</h1>
+    <h1>Jimbombude..</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
